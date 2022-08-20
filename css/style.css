@@ -1,0 +1,93 @@
+* {
+    box-sizing: border-box;
+    width: 99%;
+    font-family: 'Trebuchet MS', sans-serif;
+}
+.header {
+    display: inline-flex;
+    color: rgb(77, 10, 77);
+    padding: 0px;
+    margin: 0px;
+}
+.highScores {
+    text-align: left;
+    font-size: 15px;
+    width: 48%;   
+    padding: 0px;
+    margin: 0px;
+}
+
+.timer {
+    text-align: right;
+    font-size: 15px;
+    width: 48%;
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-color: rgb(224, 224, 224);
+    text-align: center;
+    justify-content: center;
+  }
+
+h2 {
+    font-size: 15px;
+    font-style: bold;
+}
+
+.tittle {
+    text-align: center;
+    /* justify-content: center; */
+    font-weight: bolder;
+    font-size: 45px;
+    color: rgb(77, 10, 77);
+}
+.btn-start-styled{
+    background-color: rgb(77, 10, 77);
+    color: white;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 5px;
+    width: auto;
+    display: block;
+    padding: 3px;
+    margin-left: 45%;
+}
+.btn-sbt-styled{
+    background-color: rgb(77, 10, 77);
+    color: white;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 5px;
+    width: auto;
+    display: block;
+    padding: 3px;
+    margin: 3px;
+    width: auto;
+}
+
+.form {
+    display: inline;
+}
+.input-styled {
+    width: auto;
+}
+
+.btn-styled{
+    background-color: rgb(77, 10, 77);
+    color: white;
+    height: 35px;
+    font-size: 25px;
+    border-radius: 5px;
+    width: auto;
+    display: block;
+    padding: 3px;
+    margin: 3px;
+}
+
+.qtn-styled{
+    font-size: 30px;
+    font-weight: bolder;
+    font-family: 'Trebuchet MS', sans-serif;
+}
